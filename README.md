@@ -163,11 +163,11 @@ clrscr();
 ```
 ## Output :
 
-![alt text](<Screenshot 2025-09-26 140836-1.png>)
+![alt text](6-1.png)
 
-![alt text](<Screenshot 2025-09-26 140928.png>)
+![alt text](6-2-1.png)
 
-![alt text](<Screenshot 2025-09-26 140948.png>)
+![alt text](6-3.png)
 
 ## Result :
 
